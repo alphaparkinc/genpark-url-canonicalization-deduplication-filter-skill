@@ -1,0 +1,6 @@
+name: genpark-url-canonicalization-deduplication-filter-skill
+version: 1.0.0
+description: URL normalizer sorting query parameters, stripping tracking UTM tokens, and deduplicating visited URLs
+command: python
+args:
+  - mcp_server.py
